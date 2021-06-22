@@ -1,4 +1,4 @@
-Hi yall this is Stephanie, I do fullstack web development and more!✨✨
+Hi yall this is Stephanie, I do frontend web development and more!✨✨
 
 <!---
 Stephaniesunsun/Stephaniesunsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
