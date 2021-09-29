@@ -1,4 +1,3 @@
-Hi yall this is Stephanie, I do frontend web development and more!✨✨
 
 <!---
 Stephaniesunsun/Stephaniesunsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
